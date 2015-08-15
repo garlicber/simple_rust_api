@@ -1,0 +1,10 @@
+[package]
+name = "simple_rest_api"
+version = "0.1.0"
+authors = [
+    "jakob <>",
+    "berleon <github@leon-sixt.de>"]
+
+[dependencies]
+iron = "0.1.20"
+
